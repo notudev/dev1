@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno.wendelfit/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/notkeneru)
 
-![Brenowendeldev1](https://github-readme-stats.vercel.app/api?username=Brenowendeldev1&show_icons=true&theme=onedark)
 
 ### DEV 🏀
 <!-- GIF -->
